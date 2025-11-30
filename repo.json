@@ -1,0 +1,9 @@
+{
+  "iconUrl": "",
+  "name": "Ayzenin gereksiz eklentileri | ByAyzen",
+  "description": "",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/refs/heads/builds/plugins.json"
+  ]
+}
