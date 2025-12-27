@@ -1,0 +1,19 @@
+[
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
+    "language": "tr",
+    "authors": [
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "M3UPlayer",
+    "description": "Ayarlar tuşu ile M3U dosyalarınızı kategori yapın ve kullanın!",
+    "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/M3UPlayer.cs3",
+    "name": "M3UPlayer"
+  }
+]
