@@ -1,9 +1,9 @@
 [
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
+    "iconUrl": "https://i.imgur.com/BsS4wRT.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
-    "fileSize": 34752,
+    "fileSize": 34751,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -12,9 +12,9 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "M3UPlayer",
-    "description": "M3UFalanFilan",
+    "description": "M3UPlayer bir m3u oynatıcısıdır. İçerisinde hiç bir m3u dosyasını barındırmaz! Ayarlar butonuna tıklayarak kendiniz ekleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/M3UPlayer.cs3",
     "name": "M3UPlayer"
   }
