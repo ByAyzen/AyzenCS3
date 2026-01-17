@@ -23,7 +23,7 @@
     "iconUrl": "https://i.imgur.com/BsS4wRT.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
-    "fileSize": 41322,
+    "fileSize": 41342,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -32,9 +32,9 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "M3UPlayer",
-    "description": "M3UPlayer bir m3u oynatıcısıdır. İçerisinde hiç bir m3u dosyasını barındırmaz! Ayarlar butonuna tıklayarak kendiniz ekleyebilirsiniz.",
+    "description": "M3UPlayer bir m3u oynatıcısıdır. İçerisinde hiç bir m3u dosyasını barındırmaz! ayarlar butonuna tıklayarak kendiniz ekleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/M3UPlayer.cs3",
     "name": "M3UPlayer"
   }
