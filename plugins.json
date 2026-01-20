@@ -1,41 +1,41 @@
 [
   {
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmbol.org/&size=128",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
-    "fileSize": 25973,
+    "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/FilmBOL.cs3",
     "status": 1,
-    "language": "tr",
+    "version": 4,
+    "name": "FilmBOL",
+    "internalName": "FilmBOL",
     "authors": [
       "ByAyzen"
     ],
+    "description": "Ücretli Hesabınız Yoksa Kullanamazsınız! Cookie Gerekli Cookie Ne Bilmiyorsanız Araştırınız.",
+    "fileSize": 25973,
+    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
+    "language": "tr",
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "version": 4,
-    "internalName": "FilmBOL",
-    "description": "Ücretli Hesabınız Yoksa Kullanamazsınız! Cookie Gerekli Cookie Ne Bilmiyorsanız Araştırınız.",
-    "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/FilmBOL.cs3",
-    "name": "FilmBOL"
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmbol.org/&size=128",
+    "apiVersion": 1
   },
   {
-    "iconUrl": "https://i.imgur.com/BsS4wRT.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
-    "fileSize": 42396,
+    "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/M3UPlayer.cs3",
     "status": 1,
-    "language": "tr",
+    "version": 6,
+    "name": "M3UPlayer",
+    "internalName": "M3UPlayer",
     "authors": [
       "ByAyzen"
     ],
+    "description": "M3UPlayer bir m3u oynatıcısıdır. İçerisinde hiç bir m3u dosyasını barındırmaz! ayarlar butonuna tıklayarak kendiniz ekleyebilirsiniz.",
+    "fileSize": 42395,
+    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
+    "language": "tr",
     "tvTypes": [
       "Live"
     ],
-    "version": 6,
-    "internalName": "M3UPlayer",
-    "description": "M3UPlayer bir m3u oynatıcısıdır. İçerisinde hiç bir m3u dosyasını barındırmaz! ayarlar butonuna tıklayarak kendiniz ekleyebilirsiniz.",
-    "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/M3UPlayer.cs3",
-    "name": "M3UPlayer"
+    "iconUrl": "https://i.imgur.com/BsS4wRT.png",
+    "apiVersion": 1
   }
 ]
