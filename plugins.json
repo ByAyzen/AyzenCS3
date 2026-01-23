@@ -22,14 +22,14 @@
   {
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/M3UPlayer.cs3",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "M3UPlayer",
     "internalName": "M3UPlayer",
     "authors": [
       "ByAyzen"
     ],
     "description": "M3UPlayer bir m3u oynatıcısıdır. İçerisinde hiç bir m3u dosyasını barındırmaz! ayarlar butonuna tıklayarak kendiniz ekleyebilirsiniz.",
-    "fileSize": 49967,
+    "fileSize": 59455,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
