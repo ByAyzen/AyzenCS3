@@ -9,7 +9,7 @@
       "ByAyzen"
     ],
     "description": "Ücretli Hesabınız Yoksa Kullanamazsınız! Cookie Gerekli Cookie Ne Bilmiyorsanız Araştırınız.",
-    "fileSize": 25973,
+    "fileSize": 25974,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
@@ -29,13 +29,32 @@
       "ByAyzen"
     ],
     "description": "M3UPlayer bir m3u oynatıcısıdır. İçerisinde hiç bir M3U dosyasını barındırmaz! Ayarlar butonuna tıklayarak kendiniz ekleyebilirsiniz.",
-    "fileSize": 91272,
+    "fileSize": 91269,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
     "iconUrl": "https://i.imgur.com/BsS4wRT.png",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Torrential.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Torrential",
+    "internalName": "Torrential",
+    "authors": [
+      "com.byayzen"
+    ],
+    "description": "Torrential eklentisi sürekli geliştirilebilir bir torrent ve debrid oynatıcı eklentisidir. Mevcut kaynaklar arasından Torrentio ve Comet kullanılmaktadır.",
+    "fileSize": 150928,
+    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://i.imgur.com/cEOwdKR.png",
     "apiVersion": 1
   }
 ]
