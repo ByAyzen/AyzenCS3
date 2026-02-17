@@ -60,14 +60,14 @@
   {
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Torrential.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "Torrential",
     "internalName": "Torrential",
     "authors": [
       "ByAyzen"
     ],
     "description": "Torrential eklentisi sürekli geliştirilebilir bir torrent ve debrid oynatıcı eklentisidir. Mevcut kaynaklar arasından Torrentio ve Comet kullanılmaktadır.",
-    "fileSize": 153757,
+    "fileSize": 166219,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
