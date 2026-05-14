@@ -9,7 +9,7 @@
       "ByAyzen"
     ],
     "description": "Ücretli Hesabınız Yoksa Kullanamazsınız! Cookie Gerekli Cookie Ne Bilmiyorsanız Araştırınız.",
-    "fileSize": 25974,
+    "fileSize": 26128,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
@@ -17,7 +17,8 @@
       "TvSeries"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmbol.org/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileHash": "sha256-10b47d7d5e9b7eff155f3fce5fbd93c3498f5e7e9711d84d4aab4a0f2ae96bf8"
   },
   {
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Koredizi.cs3",
@@ -29,14 +30,15 @@
       "com.byayzen"
     ],
     "description": "Koredizi ile yoğun bir günün ardından soluklanıp kısa dizilerle dünyanıza renk katabilirsiniz.",
-    "fileSize": 26214,
+    "fileSize": 26392,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
       "AsianDrama"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://koredizi.com/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileHash": "sha256-4ed2fe7205a7a769e0863b06552fcd8d4a997c652346d8225e217fe6fa1dbccc"
   },
   {
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/M3UPlayer.cs3",
@@ -48,14 +50,35 @@
       "ByAyzen"
     ],
     "description": "M3UPlayer bir m3u oynatıcısıdır. İçerisinde hiç bir M3U dosyasını barındırmaz! Ayarlar butonuna tıklayarak kendiniz ekleyebilirsiniz.",
-    "fileSize": 91269,
+    "fileSize": 91964,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
     "iconUrl": "https://i.imgur.com/BsS4wRT.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileHash": "sha256-b70a88b3ed309391a5dc48f49c22321b418535f670034595940a5941ea7d3ed9"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Syncler.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Syncler",
+    "internalName": "Syncler",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "Deneysel Senkronizasyon eklentisi.",
+    "fileSize": 52405,
+    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yandex.com.tr",
+    "apiVersion": 1,
+    "fileHash": "sha256-05550f59eb353cd9f78733fd41cc281a81228a77d5eb7cfa753ff47ee5460a06"
   },
   {
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Torrential.cs3",
@@ -67,14 +90,15 @@
       "ByAyzen"
     ],
     "description": "Torrential eklentisi sürekli geliştirilebilir bir torrent ve debrid oynatıcı eklentisidir. Mevcut kaynaklar arasından Torrentio ve Comet kullanılmaktadır.",
-    "fileSize": 166219,
+    "fileSize": 166562,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
       "Movie"
     ],
     "iconUrl": "https://i.imgur.com/cEOwdKR.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileHash": "sha256-d9aa73ac93c9dd0698913868203d2631fa32e6f3a60c7ffcb045206a9ec32ad7"
   },
   {
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Vavoo.cs3",
@@ -93,6 +117,7 @@
       "Movie"
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://vavoo.to/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileHash": "sha256-ef74ff67abbd39a8ab5055eefa765ff7fde7ff4308b75e4e9285c5f078edfa45"
   }
 ]
