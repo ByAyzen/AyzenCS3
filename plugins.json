@@ -70,7 +70,7 @@
       "ByAyzen"
     ],
     "description": "Deneysel Senkronizasyon eklentisi.",
-    "fileSize": 52405,
+    "fileSize": 57787,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
@@ -78,7 +78,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yandex.com.tr",
     "apiVersion": 1,
-    "fileHash": "sha256-05550f59eb353cd9f78733fd41cc281a81228a77d5eb7cfa753ff47ee5460a06"
+    "fileHash": "sha256-8815b0f2e1868edc5719d5d0cddc90acde38367efb854bd0c57231bee6a06c87"
   },
   {
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Torrential.cs3",
